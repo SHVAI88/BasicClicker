@@ -1,0 +1,47 @@
+body {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    background: #f0f0f0;
+}
+
+h1, h2 {
+    margin-top: 20px;
+    color: #333;
+}
+
+button {
+    padding: 15px 30px;
+    font-size: 18px;
+    margin: 10px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: 0.2s;
+}
+
+#myButton {
+    background-color: #4CAF50;
+    color: white;
+}
+
+#myButton:hover {
+    background-color: #45a049;
+    transform: scale(1.1);
+}
+
+#upgradeButton {
+    background-color: #2196F3;
+    color: white;
+}
+
+#upgradeButton:hover {
+    background-color: #1976D2;
+    transform: scale(1.1);
+}
+#permanentIncomeButton {
+    background-color: #2196F3;
+    color: white;
+}
+#permanentIncomeButton:hover {
+    background-color: #1976D2;
+    transform: scale(1.1);
